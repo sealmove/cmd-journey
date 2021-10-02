@@ -1,2 +1,2 @@
-# cmd-journey
+# Command Journey
 Memos of useful commands

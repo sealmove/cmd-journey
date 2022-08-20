@@ -1,2 +1,2 @@
-# Command Journey
-Memos of useful commands
+# POSIX Journey
+Memos, remarks and more about POSIX
